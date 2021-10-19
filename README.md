@@ -4,7 +4,7 @@ NLW Heat Node
 ## Notes
 ### Yarn add packages:
 `yarn add [PACOTE]`\
-`yarn add [PACOTE] -D` // dev
+`yarn add [PACOTE] -D`
 
 ### Yarn run application:
 `yarn dev`
