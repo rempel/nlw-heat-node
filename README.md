@@ -11,6 +11,9 @@ http://localhost:4000
 * GET [/github](http://localhost:4000/github)
 * GET [/signin/callback](http://localhost:4000/signin/callback)
 * POST [/authenticate](http://localhost:4000/authenticate)
+* POST [/messages](http://localhost:4000/messages)
+* GET [/messages/last3](http://localhost:4000/messages/last3)
+* GET [/profile](http://localhost:4000/profile)
 
 ## Notes
 ### Yarn manage packages:
@@ -22,6 +25,12 @@ http://localhost:4000
 
 `yarn dev`
 
-### Prisma generate a migration:
+### Prisma
+
+#### Generate a migration
 
 `yarn prisma migrate dev`
+
+#### Run studio
+
+`yarn prisma studio`
