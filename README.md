@@ -9,5 +9,5 @@ NLW Heat Node
 ### Yarn run application:
 `yarn dev`
 
-### Yarn prisma enerate a migration:
+### Yarn prisma generate a migration:
 `yarn prisma migrate dev`
