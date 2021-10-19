@@ -6,6 +6,12 @@ The project will be hosted in local enviroment on port 4000.
 
 http://localhost:4000
 
+### Routes
+
+* GET [/github](http://localhost:4000/github)
+* GET [/signin/callback](http://localhost:4000/signin/callback)
+* POST [/authenticate](http://localhost:4000/authenticate)
+
 ## Notes
 ### Yarn manage packages:
 
@@ -19,9 +25,3 @@ http://localhost:4000
 ### Prisma generate a migration:
 
 `yarn prisma migrate dev`
-
-### Routes
-
-* GET [/github](http://localhost:4000/github)
-* GET [/signin/callback](http://localhost:4000/signin/callback)
-* POST [/authenticate](http://localhost:4000/authenticate)
