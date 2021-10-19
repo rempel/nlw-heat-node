@@ -2,7 +2,7 @@
 
 NLW Heat Node
 
-The project will be hosted in local enviroment on port 4000.
+The project will be hosted in the local environment at port 4000.
 
 http://localhost:4000
 
