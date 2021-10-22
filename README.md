@@ -16,11 +16,6 @@ http://localhost:4000
 * GET [/profile](http://localhost:4000/profile)
 
 ## Notes
-### Yarn manage packages:
-
-`yarn add [PACKAGE_NAME]`\
-`yarn add [PACKAGE_NAME] -D`
-
 ### Yarn run application:
 
 `yarn dev`
