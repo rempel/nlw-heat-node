@@ -3,3 +3,4 @@ prisma/migrations
 node_modules
 .env
 .log
+prisma/dev.db-journal
